@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(checkIfInputIsAnEvenNumber(123)); // Testing in the main method
+        System.out.println(checkIfInputIsAnEvenNumber(124)); // Testing in the main method
     }
 
     public static boolean checkIfInputIsAnEvenNumber(int number){
